@@ -5,7 +5,7 @@ export const profileData: Profile = {
   region: "Sriwijaya State Polytechnic",
   CV: "/assets/pdf/portfolio.pdf",
   divisions: ["College Student", "Junior Front End Developer", "Junior Data Analyst", "Junior Risk Analyst"],
-  pictures: ["/assets/images/images.html", "/assets/images/fotogua.jpg"],
+  pictures: ["/assets/images/octopos.png", "/assets/images/fotogua.jpg"],
   descriptions: [
     
   ],
