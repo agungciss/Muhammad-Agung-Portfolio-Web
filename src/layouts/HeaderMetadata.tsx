@@ -12,15 +12,15 @@ export default function HeaderMetadata(): React.JSX.Element {
       />
       <meta
         name="subject"
-        content="Muhammad sufyan, Frontend Website and Mobile Developer"
+        content="Muhammad Agung, A Informatic Management College Student from Sriwijaya State Polytechnic"
       />
       <meta
         name="description"
-        content="Hello Everyone👋 I'm Muhammad Sufyan. A Frontend Developer and Mobile Developer from Indonesia. This is my personal portfolio website that created using Next.js and Chakra UI"
+        content="Hello Everyone👋 I'm Muhammad Agung. A Informatic Management College Student from Sriwijaya State Polytechnic. This is my personal portfolio website that created using Next.js and Chakra UI"
       />
       <meta
         name="author"
-        content="Muhammad Sufyan"
+        content="Muhammad Agung"
       />
 
       <link
