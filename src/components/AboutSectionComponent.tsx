@@ -118,7 +118,7 @@ function AboutSectionComponent(): React.JSX.Element {
                     as="span"
                     color="primary"
                   >
-                   Informatic Management College Student
+                   Graduated with a Bachelor of Applied Informatics Management
                   </Text>{" "}
                   from{" "}
                   <Text

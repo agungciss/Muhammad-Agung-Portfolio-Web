@@ -12,11 +12,11 @@ export default function HeaderMetadata(): React.JSX.Element {
       />
       <meta
         name="subject"
-        content="Muhammad Agung, A Informatic Management College Student from Sriwijaya State Polytechnic"
+        content="Muhammad Agung, Bachelor of Applied Informatics Management from State Polytechnic of Sriwijaya"
       />
       <meta
         name="description"
-        content="Hello Everyone👋 I'm Muhammad Agung. A Informatic Management College Student from Sriwijaya State Polytechnic. This is my personal portfolio website that created using Next.js and Chakra UI"
+        content="Hello Everyone👋 I'm Muhammad Agung. Bachelor of Applied Informatics Management from State Polytechnic of Sriwijaya. This is my personal portfolio website that created using Next.js and Chakra UI"
       />
       <meta
         name="author"

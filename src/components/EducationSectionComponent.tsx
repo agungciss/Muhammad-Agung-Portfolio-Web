@@ -123,7 +123,7 @@ function EducationSectionComponent(): React.JSX.Element {
                   borderRadius="md"
                 >
                   <AiFillWindows fontSize={18} />
-                  Internship
+                  Internship & Kampus Merdeka
                 </Badge>
 
                 <Box marginTop={8}>

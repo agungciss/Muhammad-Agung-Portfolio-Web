@@ -3,7 +3,7 @@ import type { Award } from "@/types";
 export const awardList: Award[] = [
   {
     award: "PT PUPUK SRIWIDJAJA PALEMBANG",
-    place: "Governance & Risk Management Departement",
+    place: "Departemen Tata Kelola & Manajemen Risiko",
     years: "Februrary - August: 2023",
   },
   {
