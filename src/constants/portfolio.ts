@@ -143,7 +143,7 @@ export const portfolioList: Portfolio[] = [
   
   {
     title: "Technical Suport Certificate",
-    imageThumbnail: "/assets/images/cover G.jpg",
+    imageThumbnail: "/assets/images/Cover G.jpg",
     description:
       "I got this certificate from Google X Coursera",
     livePreviewURL: "/assets/pdf/Technical Support Certificate.pdf",
