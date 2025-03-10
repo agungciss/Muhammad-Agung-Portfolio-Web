@@ -68,12 +68,12 @@ export const portfolioList: Portfolio[] = [
     repositoryURL: "https://github.com/agungciss/kelaszz",
     techStack: [
       {
-        tech: "HTML",
-        logo: "/assets/svg/html.svg",
+        tech: "NEXT",
+        logo: "/assets/svg/next js.svg",
       },
       {
-        tech: "CSS",
-        logo: "/assets/svg/css.svg",
+        tech: "Tailwind",
+        logo: "/assets/svg/tailwind.svg",
       },
       {
         tech: "TypeScript",
@@ -89,6 +89,35 @@ export const portfolioList: Portfolio[] = [
       },
     ],
   },
+
+  {
+    title: "CHAT BROO-AI",
+    imageThumbnail: "/assets/images/COVER AI.jpg",
+    description:
+      "I worked on this project or practiced at home by watching programming project tutorials to fill my gaps.",
+    livePreviewURL: "https://chatbroo-ai.vercel.app/",
+    repositoryURL: "https://chatbroo-ai.vercel.app/",
+    techStack: [
+      {
+        tech: "NEXT",
+        logo: "/assets/svg/next js.svg",
+      },
+      {
+        tech: "Tailwind",
+        logo: "/assets/svg/tailwind.svg",
+      },
+      {
+        tech: "TypeScript",
+        logo: "/assets/svg/typescript.svg",
+      },
+      {
+        tech: "Vite.JS",
+        logo: "/assets/svg/vite.svg",
+      },
+    ],
+  },
+
+
   {
     title: "Shopping Cart Dashboard",
     imageThumbnail: "/assets/images/cover 4.png",
@@ -111,6 +140,19 @@ export const portfolioList: Portfolio[] = [
       },
     ],
   },
+  
+  {
+    title: "Technical Suport Certificate",
+    imageThumbnail: "/assets/images/cover G.jpg",
+    description:
+      "I got this certificate from Google X Coursera",
+    livePreviewURL: "/assets/pdf/Technical Support Certificate.pdf",
+    repositoryURL: "/assets/pdf/Technical Support Certificate).pdf",
+    techStack: [
+     
+    ],
+  },
+
   {
     title: "Data & Software Engineering Certificate",
     imageThumbnail: "/assets/images/cover 5.jpg",
@@ -122,6 +164,7 @@ export const portfolioList: Portfolio[] = [
      
     ],
   },
+
   {
     title: "Governance & Risk Management Certificate",
     imageThumbnail: "/assets/images/cover 6.jpg",

@@ -1,4 +1,4 @@
-import { FaFacebookF, FaInstagram, FaTiktok, FaDiscord, FaGithub, FaFacebook, FaWhatsapp } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaTiktok, FaDiscord, FaGithub, FaFacebook, FaWhatsapp, FaLinkedin } from "react-icons/fa";
 import type { SocialMedia } from "@/types";
 
 export const socialMediaList: SocialMedia[] = [
@@ -11,8 +11,8 @@ export const socialMediaList: SocialMedia[] = [
     link: "https://www.instagram.com/muhammadagpra_/",
   },
   {
-    SocialMediaIcon: FaTiktok,
-    link: "",
+    SocialMediaIcon: FaLinkedin,
+    link: "https://www.linkedin.com/in/muhammadagungpratama/",
   },
 ];
 
